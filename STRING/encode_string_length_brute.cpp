@@ -2,11 +2,7 @@
 using namespace std;
 string encode(string &message)
 {
-    //   Write your code here.
-    /*
-   \
     
-    */
 
     int n = message.length();
     string ans = "";
